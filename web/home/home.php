@@ -24,7 +24,7 @@ Personal Home Page
             </div>
         </header> 
         <footer>
-                <?php include ('c:/xampp/htdocs/cs313-php/web/home/common/footer.php'); ?>
+                <?php include ('home/common/footer.php'); ?>
             </footer>
     </body>
 </html>
