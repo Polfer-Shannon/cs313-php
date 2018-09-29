@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<!--
+<!--<!DOCTYPE html>
+
 Personal Home Page
--->
+
 <html lang="en-us">
     <head>   
         <meta charset="UTF-8"/>
@@ -23,4 +23,4 @@ Personal Home Page
             </div>
         </header> 
     </body>
-</html>
+</html>-->
