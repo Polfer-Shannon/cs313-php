@@ -20,7 +20,7 @@ Personal Home Page
                 </h1>
 
                 <a href="#" class="btn btn--white btn--animated">&nbsp;&nbsp;&nbsp;&nbsp;Hi There&nbsp;&nbsp;&nbsp;&nbsp;</a>
-                <a href="/cs313-php/web/home/views/assignments.php" class="btn btn--white btn--animated">Assignments</a>
+                 <a href="/cs313-php/web/home/views/assignments.php" class="btn btn--white btn--animated">Assignments</a>
             </div>
         </header> 
         <footer>
