@@ -13,10 +13,10 @@ Personal Home Page
     </head>
     <body>
         <header class="header__pages">
-            <?php include $_SERVER['DOCUMENT_ROOT'] . '/cs313-php/web/home/common/header.php'; ?> 
+            <?php include ('../common/header.php'); ?> 
         </header> 
         <footer>
-            <?php include $_SERVER['DOCUMENT_ROOT'] . '/cs313-php/web/home/common/footer.php'; ?> 
+            <?php include ('../common/footer.php'); ?> 
         </footer>
     </body>
 </html>
