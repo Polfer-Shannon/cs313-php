@@ -8,7 +8,7 @@ Personal Home Page
         <meta name="author" content="Shannon Polfer">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>SP Home</title>
-        <link href="../web/css/home_style.css" rel="stylesheet" type="text/css" 
+        <link href="home_style.css" rel="stylesheet" type="text/css" 
               media="screen">
     </head>
     <body>
