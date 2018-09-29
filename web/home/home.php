@@ -24,8 +24,7 @@ Personal Home Page
             </div>
         </header> 
         <footer>
-                <?php include $_SERVER['DOCUMENT_ROOT'] . '/cs313-php/web/home/common/footer.php'; ?> 
-            <?php include 'https://hidden-sierra-99865.herokuapp.com/home/common/footer.php'; ?>
+                <?php include ('c:/xampp/htdocs/cs313-php/web/home/common/footer.php'); ?>
             </footer>
     </body>
 </html>
