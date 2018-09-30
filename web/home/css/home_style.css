@@ -24,7 +24,7 @@ body {
 }
 
 header{
-    height: 95vh;
+    height: 90vh;
     background-image: linear-gradient(to right bottom, rgba(231, 205, 177, .8), rgba(77, 50, 25, .8)), url("../img/pan_house.jpg");
     background-size: cover;
     background-position: top;
@@ -75,7 +75,7 @@ header{
 }
 .heading-primary--sub{
     display: block;
-    font-size: 2.95rem;
+    font-size: 2.1rem;
     font-weight: 600;
     letter-spacing: 8px;
 
@@ -107,8 +107,8 @@ header{
     opacity: 0; }
 
 .btn:active {
-  transform: translateY(-1px);
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2); }
+    transform: translateY(-1px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2); }
 
 .btn--white {
     background-color: #fff;
@@ -118,12 +118,27 @@ header{
 .btn--white::after {
     background-color: #fff; 
 }
+#home__btn--answer{
+    color: #fff;
+    font-size: 2.5rem;
+    line-height: 2.75rem;
+    font-weight: 600;
+    font-family: "Garamond", serif;
+}
+.home__btn--message-box{
+    position: absolute;
+    top: 80%;
+    left: 47%;
+    transform: translate(-60%, -80%);
+    text-align: center;
+
+}
 
 /*Footer*/
 .foot {
     border-top: 1rem solid #fff;
     margin-top: 3rem;
-    
+
 }
 .foot p {
     text-align: center;
