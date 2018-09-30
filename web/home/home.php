@@ -10,7 +10,7 @@ Personal Home Page
         <title>SP Home</title>
         <link href="css/home_style.css" rel="stylesheet" type="text/css" 
               media="screen">
-        <script type="text/javascript" src="homejs.js"></script>
+        <script src="homejs.js"></script>
     </head>
     <body>
         <header>
